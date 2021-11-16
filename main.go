@@ -1,7 +1,7 @@
 package main
 
 import (
-	"golesson/restful"
+	"golesson/slices"
 )
 
 func main() {
@@ -45,6 +45,6 @@ func main() {
 
 	// interfaces.Demo2()
 
-	restful.Demo2()
+	slices.Demo3()
 
 }
